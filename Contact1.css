@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	 background-color:#FAE2EF;
+
+	background-image:url(../../Documents/Unnamed%20Site%202/PN.jpeg);
+	background-repeat:no-repeat;
+	background-size:200px;
+	background-position: right top ;
+	
+	
+
+}
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container3 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
